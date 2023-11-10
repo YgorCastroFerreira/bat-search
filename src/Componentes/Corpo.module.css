@@ -1,0 +1,82 @@
+.maincontainer{
+    height:100%;
+    width:100%;
+    scroll-behavior: none;
+    
+}
+
+.bar2{
+    margin-left: 5vh;
+}
+
+
+.Corpo input{
+    width: 60vh;
+    height: 5vh;
+    margin-left: 3vh;
+    margin-right: 3vh;
+    margin-bottom: 5vh;
+    border-radius: 5px;
+    background-color: #751414;
+    color:slategrey;
+    font-size: 5vh;
+    padding-top: 3vh;
+    padding-bottom: 0.5vh;
+}
+
+.searching{
+    cursor: pointer;
+}
+
+.Corpo button{
+    background-color: #751414;
+    color: slategray;
+    font-weight: bold;
+    height: 7vh;
+    border-radius: 1vh;
+    margin-right: 5vh;
+
+}
+
+.Corpo p{
+    color: rgba(255, 255, 255, 0.404);
+    font-size: 30px;
+    
+}
+
+.bar{
+    margin-top: 20vh;
+    
+}
+
+
+.buttons{
+    margin-left: 6vh;
+    
+}
+
+.buttons button{
+    width:20vh;
+    height:7h;
+}
+.maincontainer{
+    height: 40vh;
+}
+
+@font-face {
+    font-family: 'MinhaFonte';
+    src: local('MinhaFonte'), url('./Fonts/JimNightshade-Regular.ttf') format('truetype');
+  }
+.rodape{
+    margin-top: 20vh;
+    font-family: 'MinhaFonte';
+    /* font-family: 'Jim Nightshade', cursive;
+    font-family: 'Lexend Deca', sans-serif; */
+}
+
+.maincontainer button{
+    font-family: 'MinhaFonte';
+    font-size:4vh;
+    text-align: center;
+    justify-items: center;
+}

@@ -1,0 +1,14 @@
+.cabecalho {
+    display: flex;
+    justify-content: end;
+    text-align: center;
+    text-decoration: none;
+    
+    
+}
+
+.cabecalho img{
+    margin-right: 5vh;
+    cursor: pointer;
+    margin-top: 3vh;
+}
